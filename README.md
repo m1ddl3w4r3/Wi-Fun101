@@ -2,10 +2,10 @@
  Wifi Workshop for Shell on the border.
  
  
-## Required software
-ssh client
-cherry tree (https://www.giuspen.net/cherrytree/#downl) (by default installed on kali)
-sqlite browser (https://sqlitebrowser.org/dl/) (by default installed on kali)
-wireshark (https://www.wireshark.org/download.html) (by default installed on kali)
+## Required software (if not using kali to connect)
+ssh client \
+cherry tree (https://www.giuspen.net/cherrytree/#downl) \
+sqlite browser (https://sqlitebrowser.org/dl/) \
+wireshark (https://www.wireshark.org/download.html)
 
 ##Following instructions from Cherrytree note book in the content folder.
